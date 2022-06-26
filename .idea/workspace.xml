@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e3ddf20-4a9b-4852-824b-b3b9b17a2a1a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/casper/sdk/BlockIdentifier.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="7e3ddf20-4a9b-4852-824b-b3b9b17a2a1a" name="Changes" comment="Adjust some code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/casper/sdk/BlockIdentifierType.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/casper/sdk/ConstValues.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/casper/sdk/ConstValues.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/casper/sdk/getstateroothash/GetStateRootHashRPC.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/casper/sdk/getstateroothash/GetStateRootHashRPC.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/kotlin/com/casper/sdk/getstateroothash/GetStateRootHashRPCTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/com/casper/sdk/getstateroothash/GetStateRootHashRPCTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +95,14 @@
       <option name="presentableId" value="Default" />
       <updated>1656232624558</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adjust some code">
+      <created>1656234663872</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656234663872</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,5 +115,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adjust some code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adjust some code" />
   </component>
 </project>
